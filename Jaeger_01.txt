@@ -1,0 +1,10 @@
+
+Jaeger distributed tracing
+
+https://www.jaegertracing.io/
+
+
+A Practical Guide to Distributed Tracing with Jaeger
+
+https://betterstack.com/community/guides/observability/jaeger-guide/
+
